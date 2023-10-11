@@ -80,15 +80,7 @@ export default function Home() {
                 fontFamily="Black Ops One"
                 fontSize={["2.5rem", "3.7rem"]}
               >
-                Masood Akhtar
-              </Heading>
-
-              <Heading
-                fontFamily="Black Ops One"
-                fontSize={["2.5rem", "3.7rem"]}
-                ml={[null, "1rem"]}
-              >
-                Vaheed
+                Volodymyr Rybak
               </Heading>
             </Flex>
           </RevealWrapper>

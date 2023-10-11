@@ -7,9 +7,14 @@ import {
   FaNodeJs,
   FaDocker,
   FaGithub,
+  FaMailchimp,
   FaInstagram,
   FaLinkedin,
   FaTwitter,
+  FaSkype,
+  FaDiscord,
+  FaTelegram,
+  FaSlack
 } from "react-icons/fa";
 
 import {
@@ -139,20 +144,8 @@ export const skillsData = [
     icon: FaNodeJs,
   },
   {
-    name: "PugJs",
-    icon: SiPug,
-  },
-  {
     name: "Express",
     icon: SiExpress,
-  },
-  {
-    name: "Docker",
-    icon: FaDocker,
-  },
-  {
-    name: "Postgres",
-    icon: BiLogoPostgresql,
   },
   {
     name: "Postman",
@@ -173,11 +166,7 @@ export const skillsData = [
   {
     name: "Bash",
     icon: SiGnubash,
-  },
-  {
-    name: "Markdown",
-    icon: BsMarkdown,
-  },
+  }
 ];
 
 export const workData = [
@@ -303,22 +292,22 @@ export const socialMediaLinks = [
     hoverColor: "gray.600",
   },
   {
+    href: "https://join.skype.com/invite/yPE8eQ0TRND9",
+    icon: FaSkype,
+    backgroundColor: "social.twitter",
+    hoverColor: "social.twitterHover",
+  },
+  {
     href: "https://www.instagram.com/codersk36/",
     icon: FaInstagram,
     backgroundColor: "social.instagram",
     hoverColor: "social.instagramHover",
   },
   {
-    href: "https://www.linkedin.com/in/sk36/",
+    href: "https://ua.linkedin.com/in/volodymyr-rybak-b4b910130",
     icon: FaLinkedin,
     backgroundColor: "social.linkedin",
     hoverColor: "social.linkedinHover",
-  },
-  {
-    href: "https://twitter.com/codersk36",
-    icon: FaTwitter,
-    backgroundColor: "social.twitter",
-    hoverColor: "social.twitterHover",
   },
   {
     href: "https://codersk36.hashnode.dev/",
