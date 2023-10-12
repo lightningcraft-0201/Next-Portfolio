@@ -14,15 +14,24 @@ import {
   FaSkype,
   FaDiscord,
   FaTelegram,
-  FaSlack
+  FaSlack,
 } from "react-icons/fa";
 
 import {
+  TbBrandVue,
+  TbBrandNuxt,
   TbBrandTypescript,
   TbBrandJavascript,
   TbBrandCpp,
   TbBrandRedux,
   TbBrandBootstrap,
+  TbBrandWordpress,
+  TbBrandLaravel,
+  TbBrandTailwind,
+  TbBrandMongodb,
+  TbBrandMysql,
+  TbBrandFigma,
+  TbBrandDjango
 } from "react-icons/tb";
 import { BiLogoJquery, BiLogoPostgresql } from "react-icons/bi";
 import {
@@ -51,7 +60,6 @@ export const links = [
   { text: "Skills", path: "/skills" },
   { text: "Projects", path: "/projects" },
   { text: "Experience", path: "/experience" },
-  { text: "Blogs", path: "/blogs" },
   { text: "Contact", path: "/contact" },
 ];
 
@@ -120,12 +128,16 @@ export const skillsData = [
     icon: TbBrandBootstrap,
   },
   {
-    name: "C/C++",
-    icon: TbBrandCpp,
+    name: "Tailwind",
+    icon: TbBrandTailwind,
   },
   {
     name: "Python",
     icon: FaPython,
+  },
+  {
+    name: "Django",
+    icon: TbBrandDjango,
   },
   {
     name: "ReactJS",
@@ -136,8 +148,8 @@ export const skillsData = [
     icon: SiNextdotjs,
   },
   {
-    name: "Redux",
-    icon: TbBrandRedux,
+    name: "VueJS",
+    icon: TbBrandVue,
   },
   {
     name: "NodeJs",
@@ -148,24 +160,24 @@ export const skillsData = [
     icon: SiExpress,
   },
   {
-    name: "Postman",
-    icon: SiPostman,
+    name: "Wordpress",
+    icon: TbBrandWordpress,
   },
   {
-    name: "Git",
-    icon: BsGit,
+    name: "Laravel",
+    icon: TbBrandLaravel,
   },
   {
-    name: "Github",
-    icon: FaGithub,
+    name: "Figma",
+    icon: TbBrandFigma,
   },
   {
-    name: "ChatGPT",
-    icon: GiArtificialIntelligence,
+    name: "Mongodb",
+    icon: TbBrandMongodb,
   },
   {
-    name: "Bash",
-    icon: SiGnubash,
+    name: "MySQL",
+    icon: TbBrandMysql,
   }
 ];
 
@@ -227,59 +239,73 @@ export const projectsData = [
   },
   {
     type: "WEB-APP",
-    title: "Weather App",
-    image: "weather-app",
-    link: "https://vaheedsk36.github.io/weather-app/",
-    source: "https://github.com/vaheedsk36/weather-app",
+    title: "Dollars for Phone",
+    image: "dollarsforphone",
+    link: "https://www.dollarsforphone.com/",
+    source: "https://github.com/DevRex-0201/React-MobileSales",
   },
   {
     type: "WEB-APP",
-    title: "Landing Page",
-    image: "landing-page",
-    link: "https://vaheedsk36.github.io/demo-frontend-bootcamp",
-    source: "https://github.com/vaheedsk36/demo-frontend-bootcamp",
+    title: "Toyota",
+    image: "toyota",
+    link: "https://www.toyota.com.br/",
+    source: "https://github.com/DevRex-0201/WP-Toyota",
   },
   {
     type: "WEB-APP",
-    title: "Guess Game",
-    image: "guess-game",
-    link: "https://vaheedsk36.github.io/guess-my-number",
-    source: "https://github.com/vaheedsk36/guess-my-number",
+    title: "Pizza",
+    image: "pizza",
+    link: "https://modpizza.com/",
+    source: "https://github.com/DevRex-0201/WP-ModPizza",
   },
   {
     type: "WEB-APP",
-    title: "Notes App",
-    image: "react-notes-app",
-    link: "https://vaheedsk36.github.io/react-notes-app/",
-    source: "https://github.com/vaheedsk36/react-notes-app",
+    title: "DC Training",
+    image: "bodybuilding",
+    link: "https://www.bodybuilding.com/",
+    source: "https://github.com/DevRex-0201/WP-BodyBuilding",
   },
   {
     type: "WEB-APP",
-    title: "Dice Multiplayer",
-    image: "dice-multiplayer",
-    link: "https://vaheedsk36.github.io/dice-multiplayer",
-    source: "https://github.com/vaheedsk36/dice-multiplayer",
-  },
-  {
-    type: "PROJECT",
-    title: "Snake Game",
-    image: "snake-game",
-    link: "https://vaheedsk36.github.io/Snake-game",
-    source: "",
-  },
-  {
-    type: "PROJECT",
-    title: "Delta Assistant",
-    image: "delta-assistant",
-    link: "",
-    source: "https://github.com/vaheedsk36/Delta-Desktop-Virtual-Assistant",
+    title: "Cooked and Loved",
+    image: "cookedloved",
+    link: "https://www.cookedandloved.com/",
+    source: "https://github.com/DevRex-0201/WP-CookedLoved",
   },
   {
     type: "WEB-APP",
-    title: "Text Utility App",
-    image: "text-utility-app",
-    link: "https://vaheedsk36.github.io/text-utility-app/",
-    source: "https://github.com/vaheedsk36/text-utility-app",
+    title: "Bartell Global",
+    image: "bartellglobal",
+    link: "https://www.bartellglobal.com/",
+    source: "https://github.com/DevRex-0201/WP-BartelGlobal",
+  },
+  {
+    type: "WEB-APP",
+    title: "Little Beaver",
+    image: "littlebeaver",
+    link: "https://www.littlebeaver.com/",
+    source: "https://github.com/DevRex-0201/WP-LittleBeaver",
+  },
+  {
+    type: "WEB-APP",
+    title: "Cooperhewitt",
+    image: "cooperhewitt",
+    link: "https://www.cooperhewitt.org/",
+    source: "https://github.com/DevRex-0201/WP-CooperHewitt",
+  },
+  {
+    type: "WEB-APP",
+    title: "Big issue",
+    image: "bigissue",
+    link: "https://www.bigissue.com/",
+    source: "https://github.com/DevRex-0201/WP-BigIssue",
+  },
+  {
+    type: "WEB-APP",
+    title: "Skill Crush",
+    image: "skillcrush",
+    link: "https://skillcrush.com/",
+    source: "https://github.com/DevRex-0201/WP-SkillCrush",
   },
 ];
 
