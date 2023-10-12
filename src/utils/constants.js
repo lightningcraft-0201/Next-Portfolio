@@ -183,47 +183,35 @@ export const skillsData = [
 
 export const workData = [
   {
-    company: "1Digitalstack.ai",
-    designation: "Software Engineer 1",
-    duration: "March 2022 - Present",
-    companyImg: "1ds.jpg",
+    company: "RUBIKA",
+    designation: "Web Developer & Designer",
+    duration: "September 2022 - May 2023",
+    companyImg: "rubika.png",
     description: (
       <>
-        <ul>
-          <li>
-            I work on Reviniti, an analytics product designed for e-commerce
-            players in the bid management domain. Solely migrated the old
-            codebase from a templating engine (PugJS) to React with TypeScript.
-          </li>
-          <li>
-            Engaged in developing new features, refactoring code, enhancing
-            product performance, bug fixes and contributing towards achieving
-            high scalability for the product.
-          </li>
-        </ul>
+        I served as a dynamic FullStack Web Developer & Designer at RUBIKA, where I transformed digital experiences through innovative design and seamless development. One of my key accomplishments was designing the Mobile Sales Website, focusing on user-friendly interfaces and visually appealing designs using Figma. I also contributed significantly to prominent websites like Toyota and Pizza, employing technologies like Swiper, Modernizr, OWL Carousel, and JQuery for optimal user interactions and engagement.
       </>
     ),
   },
   {
-    company: "Fact.MR",
-    designation: "Associate Consultant Level 01",
-    duration: "Dec 2020 - July 2021",
-    companyImg: "fmr.svg",
+    company: "CODEVERY",
+    designation: "Web Developer & Designer",
+    duration: "September 2020 - August 2022",
+    companyImg: "codevery.png",
     description: (
       <>
-        <ul>
-          <li>
-            Engaged in creating comprehensive client-specific and syndicated
-            research reports, along with SEO-focused articles and collateral
-            materials within the domains of chemicals, materials, consumer
-            goods, and industrial goods.
-          </li>
-          <li>
-            Expertly estimated market valuations and conducted primary research
-            in collaboration with industry experts to validate data, extract
-            valuable market insights.
-          </li>
-        </ul>
+        During my tenure at CODEVERY, I excelled as a FullStack Web Developer & Designer, leading impactful projects that redefined digital landscapes. Notably, I developed DC Training, an Ecommerce platform, utilizing WordPress with Ecommerce plugins, LanySizes, and JQuery. I also contributed to projects such as Bartell Global, creating seamless websites using WordPress and the Astra theme, and Big Issue, where I integrated React with WordPress for enhanced functionality and user experience.
+      </>
+    ),
+  },
+  {
+    company: "DIGIS",
+    designation: "Web Developer & Designer",
+    duration: "January 2018 - August 2020",
+    companyImg: "digis.png",
+    description: (
+      <>
+        As a FullStack Web Developer & Designer at DIGIS, I played a key role in shaping digital platforms with creativity and technical expertise. My contributions included projects like Skillcrush, where I leveraged WordPress to create intuitive user interfaces, and Cooperhewitt and Little Beaver, where I utilized WordPress to build visually appealing and functional websites. My work at DIGIS honed my skills in WordPress development, ensuring seamless and responsive web experiences for users.
       </>
     ),
   },
@@ -231,79 +219,135 @@ export const workData = [
 
 export const projectsData = [
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Portfolio Website",
     image: "portfolio-website",
     link: null,
     source: "https://github.com/vaheedsk36/portfolio-website-nextjs",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Dollars for Phone",
     image: "dollarsforphone",
     link: "https://www.dollarsforphone.com/",
     source: "https://github.com/DevRex-0201/React-MobileSales",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Toyota",
     image: "toyota",
     link: "https://www.toyota.com.br/",
     source: "https://github.com/DevRex-0201/WP-Toyota",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Pizza",
     image: "pizza",
     link: "https://modpizza.com/",
     source: "https://github.com/DevRex-0201/WP-ModPizza",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "DC Training",
     image: "bodybuilding",
     link: "https://www.bodybuilding.com/",
     source: "https://github.com/DevRex-0201/WP-BodyBuilding",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Cooked and Loved",
     image: "cookedloved",
     link: "https://www.cookedandloved.com/",
     source: "https://github.com/DevRex-0201/WP-CookedLoved",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Bartell Global",
     image: "bartellglobal",
     link: "https://www.bartellglobal.com/",
     source: "https://github.com/DevRex-0201/WP-BartelGlobal",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Little Beaver",
     image: "littlebeaver",
     link: "https://www.littlebeaver.com/",
     source: "https://github.com/DevRex-0201/WP-LittleBeaver",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Cooperhewitt",
     image: "cooperhewitt",
     link: "https://www.cooperhewitt.org/",
     source: "https://github.com/DevRex-0201/WP-CooperHewitt",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Big issue",
     image: "bigissue",
     link: "https://www.bigissue.com/",
     source: "https://github.com/DevRex-0201/WP-BigIssue",
   },
   {
-    type: "WEB-APP",
+    type: "Projects",
     title: "Skill Crush",
     image: "skillcrush",
+    link: "https://skillcrush.com/",
+    source: "https://github.com/DevRex-0201/WP-SkillCrush",
+  },
+  {
+    type: "Designs",
+    title: "Dollars for Phone",
+    image: "f_reactmobile",
+    link: "https://www.dollarsforphone.com/",
+    source: "https://github.com/DevRex-0201/React-MobileSales",
+  },
+  {
+    type: "Designs",
+    title: "Toyota",
+    image: "f_toyota",
+    link: "https://www.toyota.com.br/",
+    source: "https://github.com/DevRex-0201/WP-Toyota",
+  },
+  {
+    type: "Designs",
+    title: "Pizza",
+    image: "f_pizza",
+    link: "https://modpizza.com/",
+    source: "https://github.com/DevRex-0201/WP-ModPizza",
+  },
+  {
+    type: "Designs",
+    title: "Bartell Global",
+    image: "f_bartellglobal",
+    link: "https://www.bartellglobal.com/",
+    source: "https://github.com/DevRex-0201/WP-BartelGlobal",
+  },
+  {
+    type: "Designs",
+    title: "Little Beaver",
+    image: "f_littlebeaver",
+    link: "https://www.littlebeaver.com/",
+    source: "https://github.com/DevRex-0201/WP-LittleBeaver",
+  },
+  {
+    type: "Designs",
+    title: "Cooperhewitt",
+    image: "f_cooperhewitt",
+    link: "https://www.cooperhewitt.org/",
+    source: "https://github.com/DevRex-0201/WP-CooperHewitt",
+  },
+  {
+    type: "Designs",
+    title: "Big issue",
+    image: "f_bigissue",
+    link: "https://www.bigissue.com/",
+    source: "https://github.com/DevRex-0201/WP-BigIssue",
+  },
+  {
+    type: "Designs",
+    title: "Skill Crush",
+    image: "f_skillcrush",
     link: "https://skillcrush.com/",
     source: "https://github.com/DevRex-0201/WP-SkillCrush",
   },
