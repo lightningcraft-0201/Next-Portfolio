@@ -60,7 +60,6 @@ export const links = [
   { text: "Skills", path: "/skills" },
   { text: "Projects", path: "/projects" },
   { text: "Experience", path: "/experience" },
-  { text: "Contact", path: "/contact" },
 ];
 
 export const interestsData = [
@@ -189,7 +188,7 @@ export const workData = [
     companyImg: "rubika.png",
     description: (
       <>
-        I served as a dynamic FullStack Web Developer & Designer at RUBIKA, where I transformed digital experiences through innovative design and seamless development. One of my key accomplishments was designing the Mobile Sales Website, focusing on user-friendly interfaces and visually appealing designs using Figma. I also contributed significantly to prominent websites like Toyota and Pizza, employing technologies like Swiper, Modernizr, OWL Carousel, and JQuery for optimal user interactions and engagement.
+        I served as a dynamic FullStack Web Developer & Designer at RUBIKA, where I transformed digital experiences through innovative design and seamless development. One of my key accomplishments was designing the Mobile Sales Website, focusing on user-friendly interfaces and visually appealing designs using Figma. I also contributed significantly to prominent websites like Toyota and Pizza, employing technologies like Swiper, Modernizr, OWL Carousel, and JQuery for optimal user interactions and engagemen Designt.
       </>
     ),
   },
@@ -297,56 +296,56 @@ export const projectsData = [
   },
   {
     type: "Designs",
-    title: "Dollars for Phone",
+    title: "Dollars for Phone Design",
     image: "f_reactmobile",
     link: "https://www.dollarsforphone.com/",
     source: "https://github.com/DevRex-0201/React-MobileSales",
   },
   {
     type: "Designs",
-    title: "Toyota",
+    title: "Toyota Design",
     image: "f_toyota",
     link: "https://www.toyota.com.br/",
     source: "https://github.com/DevRex-0201/WP-Toyota",
   },
   {
     type: "Designs",
-    title: "Pizza",
+    title: "Pizza Design",
     image: "f_pizza",
     link: "https://modpizza.com/",
     source: "https://github.com/DevRex-0201/WP-ModPizza",
   },
   {
     type: "Designs",
-    title: "Bartell Global",
+    title: "Bartell Global Design",
     image: "f_bartellglobal",
     link: "https://www.bartellglobal.com/",
     source: "https://github.com/DevRex-0201/WP-BartelGlobal",
   },
   {
     type: "Designs",
-    title: "Little Beaver",
+    title: "Little Beaver Design",
     image: "f_littlebeaver",
     link: "https://www.littlebeaver.com/",
     source: "https://github.com/DevRex-0201/WP-LittleBeaver",
   },
   {
     type: "Designs",
-    title: "Cooperhewitt",
+    title: "Cooperhewitt Design",
     image: "f_cooperhewitt",
     link: "https://www.cooperhewitt.org/",
     source: "https://github.com/DevRex-0201/WP-CooperHewitt",
   },
   {
     type: "Designs",
-    title: "Big issue",
+    title: "Big issue Design",
     image: "f_bigissue",
     link: "https://www.bigissue.com/",
     source: "https://github.com/DevRex-0201/WP-BigIssue",
   },
   {
     type: "Designs",
-    title: "Skill Crush",
+    title: "Skill Crush Design",
     image: "f_skillcrush",
     link: "https://skillcrush.com/",
     source: "https://github.com/DevRex-0201/WP-SkillCrush",
@@ -367,13 +366,13 @@ export const socialMediaLinks = [
     backgroundColor: "social.twitter",
     hoverColor: "social.twitterHover",
   },
-  {
+/*   {
     href: "https://www.instagram.com/codersk36/",
     icon: FaInstagram,
     backgroundColor: "social.instagram",
     hoverColor: "social.instagramHover",
-  },
-  {
+  }, */
+/*   {
     href: "https://ua.linkedin.com/in/volodymyr-rybak-b4b910130",
     icon: FaLinkedin,
     backgroundColor: "social.linkedin",
@@ -384,7 +383,7 @@ export const socialMediaLinks = [
     icon: FaHashnode,
     backgroundColor: "social.hashnode",
     hoverColor: "social.hashnodeHover",
-  },
+  }, */
 ];
 
 export const query = `
