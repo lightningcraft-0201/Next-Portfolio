@@ -366,24 +366,24 @@ export const socialMediaLinks = [
     backgroundColor: "social.twitter",
     hoverColor: "social.twitterHover",
   },
-/*   {
-    href: "https://www.instagram.com/codersk36/",
-    icon: FaInstagram,
+  {
+    href: "https://turtle-yfu4177.slack.com/archives/C060WQWFCUD",
+    icon: FaSlack,
     backgroundColor: "social.instagram",
     hoverColor: "social.instagramHover",
-  }, */
-/*   {
-    href: "https://ua.linkedin.com/in/volodymyr-rybak-b4b910130",
-    icon: FaLinkedin,
-    backgroundColor: "social.linkedin",
-    hoverColor: "social.linkedinHover",
   },
   {
-    href: "https://codersk36.hashnode.dev/",
-    icon: FaHashnode,
+    href: "https://t.me/+jcFHZRpM_BNjMGJl",
+    icon: FaTelegram,
+    backgroundColor: "social.twitter",
+    hoverColor: "social.twitterHover",
+  },
+  {
+    href: "https://discordapp.com/users/1122552681643393135",
+    icon: FaDiscord,
     backgroundColor: "social.hashnode",
     hoverColor: "social.hashnodeHover",
-  }, */
+  },
 ];
 
 export const query = `
