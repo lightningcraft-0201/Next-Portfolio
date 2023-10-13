@@ -32,7 +32,7 @@ import {
   TbBrandMysql,
   TbBrandFigma,
   TbBrandDjango,
-  TbBrandGmail
+  TbBrandGoogle
 } from "react-icons/tb";
 import { BiLogoJquery, BiLogoPostgresql } from "react-icons/bi";
 import {
@@ -360,12 +360,6 @@ export const socialMediaLinks = [
     icon: FaGithub,
     backgroundColor: "gray.700",
     hoverColor: "gray.600",
-  },
-  {
-    href: "https://volodymyrrybak.ua@gmail.com",
-    icon: TbBrandGmail,
-    backgroundColor: "purple.700",
-    hoverColor: "purple.600",
   },
   {
     href: "https://join.skype.com/invite/xlqmhpwVZ4qL",
