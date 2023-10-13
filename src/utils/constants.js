@@ -361,7 +361,7 @@ export const socialMediaLinks = [
     hoverColor: "gray.600",
   },
   {
-    href: "https://join.skype.com/invite/yPE8eQ0TRND9",
+    href: "https://join.skype.com/invite/xlqmhpwVZ4qL",
     icon: FaSkype,
     backgroundColor: "social.twitter",
     hoverColor: "social.twitterHover",
@@ -379,7 +379,7 @@ export const socialMediaLinks = [
     hoverColor: "social.twitterHover",
   },
   {
-    href: "https://discordapp.com/users/1122552681643393135",
+    href: "https://discordapp.com/users/1162261037635088434",
     icon: FaDiscord,
     backgroundColor: "social.hashnode",
     hoverColor: "social.hashnodeHover",
