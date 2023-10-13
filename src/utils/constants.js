@@ -362,7 +362,7 @@ export const socialMediaLinks = [
     hoverColor: "gray.600",
   },
   {
-    href: "volodymyrrybak.ua@gmail.com",
+    href: "https://volodymyrrybak.ua@gmail.com",
     icon: TbBrandGmail,
     backgroundColor: "purple.700",
     hoverColor: "purple.600",
