@@ -44,7 +44,7 @@ const Page = () => {
                 <br />
                 <Text>
                   I&apos;m <span className="name">Volodymyr</span>, a passionate
-                  software developer. Experienced and highly skilled web developer who has a proven track record in creating dynamic and responsive web applications. I have a strong command of various technologies such as React.js, Next.js, Vue.js, Wordpress, Django, Laravel, Tailwind CSS, Material UI, SCSS, and Sass. I excel in writing clean and efficient code, improving user experiences, and finding solutions to complex technical problems. I am dedicated to staying updated with the latest trends in web development and delivering exceptional solutions that surpass client expectations.
+                  software developer. Experienced and highly skilled web developer who has a proven track record in creating dynamic and responsive web applications. I have a strong command of various technologies such as React.js, Next.js, Vue.js, Node.js, Express.js, Wordpress, Django, Laravel, Tailwind CSS, Material UI, SCSS, and Sass. I excel in writing clean and efficient code, improving user experiences, and finding solutions to complex technical problems. I am dedicated to staying updated with the latest trends in web development and delivering exceptional solutions that surpass client expectations.
                 </Text>
                 <br />
                 <Text>
