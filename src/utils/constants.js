@@ -219,10 +219,10 @@ export const workData = [
 export const projectsData = [
   {
     type: "Projects",
-    title: "Portfolio Website",
+    title: "My Portfolio",
     image: "portfolio-website",
     link: null,
-    source: "https://github.com/vaheedsk36/portfolio-website-nextjs",
+    source: "https://github.com/DevRex-0201/Next-Portfolio",
   },
   {
     type: "Projects",
