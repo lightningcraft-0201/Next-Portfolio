@@ -227,10 +227,10 @@ export const projectsData = [
   },
   {
     type: "Projects",
-    title: "Dollars for Phone",
-    image: "dollarsforphone",
-    link: "https://www.dollarsforphone.com/",
-    source: "https://github.com/DevRex-0201/React-MobileSales",
+    title: "Car Showcase 2023",
+    image: "carshowcase",
+    link: null,
+    source: "https://github.com/DevRex-0201/Next-CarShowacase",
   },
   {
     type: "Projects",
@@ -241,10 +241,10 @@ export const projectsData = [
   },
   {
     type: "Projects",
-    title: "Pizza",
-    image: "pizza",
-    link: "https://modpizza.com/",
-    source: "https://github.com/DevRex-0201/WP-ModPizza",
+    title: "Road Skills School",
+    image: "reactschool",
+    link: "https://road-skills-school.web.app/",
+    source: "https://github.com/DevRex-0201/React-OnlineSchool",
   },
   {
     type: "Projects",
@@ -255,10 +255,31 @@ export const projectsData = [
   },
   {
     type: "Projects",
+    title: "Fitness Club",
+    image: "fitnessclub",    
+    link: null,
+    source: "https://github.com/DevRex-0201/Next-Ecommerce-SPEQ",
+  },
+  {
+    type: "Projects",
+    title: "Pizza",
+    image: "pizza",
+    link: "https://modpizza.com/",
+    source: "https://github.com/DevRex-0201/WP-ModPizza",
+  },  
+  {
+    type: "Projects",
     title: "Cooked and Loved",
     image: "cookedloved",
     link: "https://www.cookedandloved.com/",
     source: "https://github.com/DevRex-0201/WP-CookedLoved",
+  },
+  {
+    type: "Projects",
+    title: "Dollars for Phone",
+    image: "dollarsforphone",
+    link: "https://www.dollarsforphone.com/",
+    source: "https://github.com/DevRex-0201/React-MobileSales",
   },
   {
     type: "Projects",
