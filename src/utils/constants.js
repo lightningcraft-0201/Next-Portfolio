@@ -189,7 +189,7 @@ export const workData = [
     companyImg: "rubika.png",
     description: (
       <>
-        I served as a dynamic FullStack Web Developer & Designer at RUBIKA, where I transformed digital experiences through innovative design and seamless development. One of my key accomplishments was designing the Mobile Sales Website, focusing on user-friendly interfaces and visually appealing designs using Figma. I also contributed significantly to prominent websites like Toyota and Pizza, employing technologies like Swiper, Modernizr, OWL Carousel, and JQuery for optimal user interactions and engagemen Designt.
+        In my role as a FullStack Web Developer & Designer at RUBIKA, I crafted immersive digital experiences that seamlessly blended creativity and technology. I was the driving force behind projects like Car Showcase 2023, where I harnessed the power of Next.js 13 to create a cutting-edge web platform. The Mobile Sales Website for Dollarsforphone.com stands testament to my design finesse, employing React.js and Figma to ensure a seamless, user-friendly interface. Additionally, I contributed to diverse projects like Toyota, Pizza, and Cooked Loved, leveraging WordPress and a suite of technologies to deliver engaging and visually appealing websites.
       </>
     ),
   },
@@ -200,7 +200,7 @@ export const workData = [
     companyImg: "codevery.png",
     description: (
       <>
-        During my tenure at CODEVERY, I excelled as a FullStack Web Developer & Designer, leading impactful projects that redefined digital landscapes. Notably, I developed DC Training, an Ecommerce platform, utilizing WordPress with Ecommerce plugins, LanySizes, and JQuery. I also contributed to projects such as Bartell Global, creating seamless websites using WordPress and the Astra theme, and Big Issue, where I integrated React with WordPress for enhanced functionality and user experience.
+        At CODEVERY, my journey as a FullStack Web Developer & Designer was marked by innovation and versatility. I spearheaded projects like DC Training, an Ecommerce platform developed on WordPress, coupled with Ecommerce plugins and advanced JavaScript libraries, enhancing user interactions. The dynamic Road Skills School, crafted with React.js and a Themeforest theme, showcased my prowess in modern web technologies. I seamlessly integrated WordPress with React in projects like Bartell Global and Big Issue, ensuring a harmonious fusion of functionality and aesthetics.
       </>
     ),
   },
@@ -211,7 +211,7 @@ export const workData = [
     companyImg: "digis.png",
     description: (
       <>
-        As a FullStack Web Developer & Designer at DIGIS, I played a key role in shaping digital platforms with creativity and technical expertise. My contributions included projects like Skillcrush, where I leveraged WordPress to create intuitive user interfaces, and Cooperhewitt and Little Beaver, where I utilized WordPress to build visually appealing and functional websites. My work at DIGIS honed my skills in WordPress development, ensuring seamless and responsive web experiences for users.
+        During my tenure as a FullStack Web Developer & Designer at DIGIS, I left an indelible mark through projects that showcased both creativity and technical expertise. The Fitness Club, powered by Next.js, exemplified my proficiency in cutting-edge frameworks, creating a seamless user experience. Simultaneously, I utilized the robust capabilities of WordPress in projects like Skillcrush, Cooperhewitt, and Little Beaver, crafting visually stunning and intuitive websites. My time at DIGIS honed my skills, enabling me to create captivating digital landscapes that resonate with users.
       </>
     ),
   },
