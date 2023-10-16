@@ -377,7 +377,7 @@ export const projectsData = [
 
 export const socialMediaLinks = [
   {
-    href: "https://github.com/vaheedsk36",
+    href: "https://github.com/DevRex-0201",
     icon: FaGithub,
     backgroundColor: "gray.700",
     hoverColor: "gray.600",
