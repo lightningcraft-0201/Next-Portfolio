@@ -2,9 +2,9 @@ import Favicon from "/public/images/favicon.png";
 import ClientRootLayout from "../components/ClientRootLayout";
 
 export const metadata = {
-  title: "Volodymyr Rybak | Full-stack Developer",
+  title: "JinMing Zhang | Full-stack Developer",
   description:
-  "Welcome to Volodymyr's Software Engineering Portfolio. Explore a diverse range of projects and see how I can bring your ideas to life. Let's connect and discuss your next venture!",
+  "Welcome to JinMing's Software Engineering Portfolio. Explore a diverse range of projects and see how I can bring your ideas to life. Let's connect and discuss your next venture!",
   keywords: [
     "portfolio",
     "app",

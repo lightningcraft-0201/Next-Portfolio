@@ -15,7 +15,8 @@ const ProjectCard = (props) => {
             fontSize: "1.5rem",
             marginBottom: "5px",
             textAlign: "center",
-            fontFamily:"Righteous"
+            fontFamily:"Righteous",
+            height: "65px",
           }}
         >
           {title}
@@ -45,6 +46,7 @@ const ProjectCard = (props) => {
             alignItems="center"
             justifyContent="center"
             fontSize="2.5rem"
+            marginBottom="5rem"
           >
             {
               link !==null ?

@@ -8,7 +8,7 @@ import { links } from "../utils/constants";
 
 export default function MobileHeader({ pathname }) {
   const { isOpen, onOpen, onClose } = useDisclosure();
-  const btnRef = React.useRef();
+  const btnRef = React.useRef(); 
 
   useEffect(() => {
     onClose();

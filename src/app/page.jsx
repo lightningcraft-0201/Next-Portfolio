@@ -80,7 +80,7 @@ export default function Home() {
                 fontFamily="Black Ops One"
                 fontSize={["2.5rem", "3.7rem"]}
               >
-                Volodymyr Rybak
+                JinMing Zhang
               </Heading>
             </Flex>
           </RevealWrapper>
