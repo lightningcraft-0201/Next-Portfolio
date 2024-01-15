@@ -189,7 +189,7 @@ export const workData = [
     companyImg: "rubika.png",
     description: (
       <>
-        This project marked a significant milestone for our company, highlighting our tailored solutions for a prominent U.S. brand. My role involved using a diverse technology stack, including WordPress WooCommerce, PHP, MySQL, and Yoast SEO, to develop a robust main platform for 'Smart Minds' (smartminds.one). Additionally, I played a key role in integrating a state-of-the-art real-time chatting platform (collaboration.smartminds.one), utilizing Django, React-Socket, and React-TypeScript. My contribution was further enhanced by employing advanced design principles through Figma, ensuring a seamless and user-friendly experience.
+        This project marked a significant milestone for our company, highlighting our tailored solutions for a prominent U.S. brand. My role involved using a diverse technology stack, including WordPress WooCommerce, PHP, MySQL, and Yoast SEO, to develop a robust main platform for Smart Minds (smartminds.one). Additionally, I played a key role in integrating a state-of-the-art real-time chatting platform (collaboration.smartminds.one), utilizing Django, React-Socket, and React-TypeScript. My contribution was further enhanced by employing advanced design principles through Figma, ensuring a seamless and user-friendly experience.
       </>
     ),
   },
@@ -200,7 +200,7 @@ export const workData = [
     companyImg: "codevery.png",
     description: (
       <>
-        During my internship, I contributed to the development of several key projects, including 'Cooked and Loved', 'US Body Building' (BodyBuilding.com), and 'Mobile E-commerce Site' (DollarsForPhone.com). These projects were primarily built using MERN stack and React.js, offering me substantial experience and proficiency in modern web development technologies. My role in these diverse projects showcases my ability to adapt and deliver in various web development contexts, enhancing my skills in both front-end and back-end development.
+        During my internship, I contributed to the development of several key projects, including Cooked and Loved, US Body Building (BodyBuilding.com), and Mobile E-commerce Site (DollarsForPhone.com). These projects were primarily built using MERN stack and React.js, offering me substantial experience and proficiency in modern web development technologies. My role in these diverse projects showcases my ability to adapt and deliver in various web development contexts, enhancing my skills in both front-end and back-end development.
       </>
     ),
   },
@@ -211,7 +211,7 @@ export const workData = [
     companyImg: "digis.png",
     description: (
       <>
-        As a freelancer on Upwork, I have successfully developed various e-commerce and landing page projects, notably for 'Odigeo Connect', 'Warby Parker', and 'Hipcamp'. My expertise extends beyond web development to encompass automatic data analysis, data extraction, data combination, and image processing. This diverse skill set has allowed me to contribute to a range of projects, demonstrating my versatility and technical proficiency in both web development and data processing domains.
+        As a freelancer on Upwork, I have successfully developed various e-commerce and landing page projects, notably for Odigeo Connect, Warby Parker, and Hipcamp. My expertise extends beyond web development to encompass automatic data analysis, data extraction, data combination, and image processing. This diverse skill set has allowed me to contribute to a range of projects, demonstrating my versatility and technical proficiency in both web development and data processing domains.
       </>
     ),
   },
