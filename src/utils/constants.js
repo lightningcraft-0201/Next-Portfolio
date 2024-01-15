@@ -185,7 +185,7 @@ export const workData = [
   {
     company: "DIGITPOL",
     designation: "Web Developer & Automation Expert",
-    duration: "September 2022 - May 2023",
+    duration: "February 2022 - June 2023",
     companyImg: "rubika.png",
     description: (
       <>
@@ -196,7 +196,7 @@ export const workData = [
   {
     company: "RADICA SYSTEMS LIMITED",
     designation: "Intern",
-    duration: "September 2020 - August 2022",
+    duration: "September 2018 - November 2021",
     companyImg: "codevery.png",
     description: (
       <>
@@ -207,7 +207,7 @@ export const workData = [
   {
     company: "UPWOK",
     designation: "Freelancer",
-    duration: "January 2018 - August 2020",
+    duration: "September 2016 - November 2020",
     companyImg: "digis.png",
     description: (
       <>
